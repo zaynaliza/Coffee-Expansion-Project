@@ -1,0 +1,15 @@
+city_id,city_name,population,estimated_rent,city_rank
+1,Shanghai,470000.0,29700,2
+2,Paris,24900000.0,17100,5
+3,Copenhagen,14000000.0,15300,7
+4,Sydney,880000.0,10800,10
+5,Singapore,2200000.0,21500,4
+6,Tokyo,870000.0,31500,1
+7,Toronto,2800000.0,22500,3
+8,Melbourne,2200000.0,14400,8
+9,Chicago,2700000.0,16200,6
+10,New York,3600000.0,13500,9
+11,Seoul,24900000.0,9000,11
+12,Las Vegas,7500000.0,8100,12
+13,London,9000000.0,7200,13
+14,San Francisco,5300000.0,6300,14
